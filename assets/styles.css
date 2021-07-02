@@ -186,8 +186,8 @@ main > :last-child {
     margin-top: 3em;
 }
 
-.book .button:not(:first-of-type) {
-    margin-left: 1em;
+#book .button:not(:first-of-type) {
+    margin-left: .2em;
 }
 
 .button {
