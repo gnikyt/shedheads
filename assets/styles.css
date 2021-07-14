@@ -227,4 +227,9 @@ main > :last-child {
         margin-top: 0;
         padding-left: 2em;
     }
+
+    #services ul {
+        max-width: 50%;
+        columns: 2;
+    }
 }
